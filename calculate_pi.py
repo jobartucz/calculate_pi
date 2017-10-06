@@ -1,6 +1,10 @@
 # we need the math library because it has a really good estimate of pi
 import math
 
+# first, each group member should clone the repository, add their name below using their own computer, then merge it back
+# partner #1:
+# partner #2:
+
 # fill in the function called "calculate_pi" that returns a value as close as possible to the real_pi
 # level 1: accurate to 2 decimal places (3.14.....)
 # level 2: accurate to 10 decimal places (3.1415926535.....)
