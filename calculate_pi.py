@@ -4,7 +4,7 @@ import math
 # fill in the function called "calculate_pi" that returns a value as close as possible to the real_pi
 # level 1: accurate to 2 decimal places (3.14.....)
 # level 2: accurate to 10 decimal places (3.1415926535.....)
-# level 3: who in the class can get the smallest difference to the real value of pi?
+# level 3: who in the class can get the smallest difference to the real value of pi? (maximum 30 second compute time)
 
 # this is the function you have to fill in
 def calculate_pi():
